@@ -10,9 +10,9 @@ CREATE TABLE xfn_admin(
   aname VARCHAR(32) UNIQUE,
   apwd  VARCHAR(64)
 );
-INSERT INTO xfn_admin VALUES(null,'dingding','123456');
-INSERT INTO xfn_admin VALUES(null,'dangdang','123456');
-INSERT INTO xfn_admin VALUES(null,'tom','123456');
+INSERT INTO xfn_admin VALUES(null,'nianpeng','123456');
+INSERT INTO xfn_admin VALUES(null,'admin','123456');
+INSERT INTO xfn_admin VALUES(null,'boss','999999');
 
 
 CREATE TABLE xfn_settings(
